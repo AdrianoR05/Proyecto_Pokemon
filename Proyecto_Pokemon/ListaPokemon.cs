@@ -108,6 +108,7 @@ namespace Proyecto_Pokemon
             return cantidad;
         }
 
+
         public string LeerArchivo()
         {
             string ruta = @"LISTAPOKEMONES.txt";
